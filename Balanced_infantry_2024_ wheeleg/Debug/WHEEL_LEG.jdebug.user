@@ -1,0 +1,38 @@
+
+
+GraphedExpression="(chassis_data).foot_speed_kalman", Color=#e56a6f
+GraphedExpression="(chassis_data).foot_speed_set", Color=#35792b
+GraphedExpression="(chassis_data).world_accel_y_lpf", Color=#769dda
+GraphedExpression="(chassis_data).world_accel_y_kalman", Color=#b14f0d
+OpenDocument="stm32f4xx_it.c", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Core/Src/stm32f4xx_it.c", Line=84
+OpenDocument="tasks.c", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Middlewares/Third_Party/FreeRTOS/Source/tasks.c", Line=3634
+OpenDocument="bsp_dwt.c", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Robot/BSP/bsp_dwt.c", Line=61
+OpenDocument="stm32f4xx_hal_spi.c", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c", Line=1246
+OpenDocument="chassis_task.cpp", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Robot/Tasks/chassis_task.cpp", Line=27
+OpenDocument="stm32f4xx_hal_uart.c", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c", Line=1672
+OpenDocument="BMI088driver.c", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Robot/Components/Devices/BMI088driver.c", Line=339
+OpenDocument="stm32f4xx_hal.c", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c", Line=310
+OpenDocument="CAN_receive.c", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Robot/Application/CAN_receive.c", Line=110
+OpenDocument="main.c", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Core/Src/main.c", Line=43
+OpenDocument="crc_ccitt.h", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Robot/Application/GO1/crc_ccitt.h", Line=9
+OpenDocument="WHEEL_LEG.jdebug", FilePath="E:/Wheelleg2024/tup_wheelleg_2024/Balanced_infantry_2024_ wheeleg/Debug/WHEEL_LEG.jdebug", Line=0
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=473, h=595, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=RIGHT, x=0, y=1, w=916, h=382, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=LEFT, x=0, y=1, w=473, h=271, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=RIGHT, x=0, y=0, w=916, h=484, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor at 10 %", TimePerDiv="5 s", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="108;0", DataGraphShowNamesAtCursor=1, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="746;0", CodeGraphLegendShown=0, CodeGraphLegendPosition="752;0"
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[353;146;118;146;854]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" (chassis_data).foot_speed_kalman";" (chassis_data).foot_speed_set";" (chassis_data).world_accel_y_lpf";" (chassis_data).world_accel_y_kalman"], ColWidths=[100;100;100;100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Average";"Min";"Max";"# Changes";"Min. Change";"Max. Change"], ColWidths=[734;100;119;119;119;119;100;112;100]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Task List", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Name";"Run Count";"Priority";"Status";"Timeout";"Stack Info";"ID";"Mutex Count";"Notified Value";"Notify State"], ColWidths=[110;110;110;110;110;110;110;110;110;110]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh";"Access"], ColWidths=[397;336;190;100;100]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;359]
+WatchedExpression="chassis_data", Window=Watched Data 1
+WatchedExpression="mat_R_diagonal_elements", Window=Watched Data 1
+WatchedExpression="balance_LQR_sit_down", Window=Watched Data 1
+WatchedExpression="balance_LQR", Window=Watched Data 1
+WatchedExpression="balance_LQR_stand_up", Window=Watched Data 1
+WatchedExpression="LQR", Window=Watched Data 1

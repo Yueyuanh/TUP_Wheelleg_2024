@@ -1,0 +1,8 @@
+# Keil5
+MDK-ARM/.vscode/
+MDK-ARM/basic_framework/
+MDK-ARM/JLinkLog.txt
+MDK-ARM/JLinkSettings.ini
+*.map
+*.uvguix.*
+*.jdebug.user

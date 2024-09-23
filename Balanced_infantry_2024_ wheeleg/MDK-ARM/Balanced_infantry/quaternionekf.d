@@ -1,0 +1,16 @@
+balanced_infantry\quaternionekf.o: ..\Robot\Components\Algorithm\QuaternionEKF.c
+balanced_infantry\quaternionekf.o: ..\Robot\Components\Algorithm\QuaternionEKF.h
+balanced_infantry\quaternionekf.o: ../Robot/Components/kalman_filter.h
+balanced_infantry\quaternionekf.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+balanced_infantry\quaternionekf.o: ../Drivers/CMSIS/Include/core_cm4.h
+balanced_infantry\quaternionekf.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+balanced_infantry\quaternionekf.o: ../Drivers/CMSIS/Include/cmsis_version.h
+balanced_infantry\quaternionekf.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+balanced_infantry\quaternionekf.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+balanced_infantry\quaternionekf.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+balanced_infantry\quaternionekf.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+balanced_infantry\quaternionekf.o: ../Drivers/CMSIS/DSP/Include/arm_math.h
+balanced_infantry\quaternionekf.o: ../Drivers/CMSIS/Include/core_cm4.h
+balanced_infantry\quaternionekf.o: D:\KEIL\ARM\ARMCC\Bin\..\include\string.h
+balanced_infantry\quaternionekf.o: D:\KEIL\ARM\ARMCC\Bin\..\include\math.h
+balanced_infantry\quaternionekf.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
